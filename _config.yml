@@ -1,6 +1,6 @@
 # Site
 title: volod.xyz
-description: Stylish, Two-Column Jekyll Theme
+description: I make video games and weird videos about synthesizers, sound design, self-reflection and musical blasphemy.
 url: 
 logo: halve.png                                       # Site logo
 locale: en_US
@@ -31,20 +31,20 @@ sass:
 # Social Links
 #email:             email
 #google.plus:        username
+youtube:           volod
+instagram:          volodmusic
 twitter:            volodmusic
 facebook:           volodmusic
 #github:             username
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
-#instagram:          username
 #lastfm:            username
 #tumblr:            username
 #pinterest:         username
 #foursquare:        username
 #steam:              username
 #dribbble:          username
-youtube:           volodmusic
 #soundcloud:        username
 #weibo:             username
 #flickr:            username
