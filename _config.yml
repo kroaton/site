@@ -2,6 +2,7 @@
 title: volod.xyz
 description: Stylish, Two-Column Jekyll Theme
 url: http://volod.xyz
+baseurl:
 logo: halve.png                                       # Site logo
 locale: en_US
 
