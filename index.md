@@ -3,8 +3,6 @@ layout: home
 ---
 # Projects
 
-Things I've made recently:
-
 <div class="overlay">
   <ul class="projects-menu">
     {% for item in site.data.projects %}
